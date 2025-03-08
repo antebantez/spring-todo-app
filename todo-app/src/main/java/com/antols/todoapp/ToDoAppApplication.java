@@ -1,4 +1,4 @@
-package com.antols.todoapp.todo_app;
+package com.antols.todoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

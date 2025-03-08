@@ -1,4 +1,4 @@
-package com.antols.todoapp.todo_app.model;
+package com.antols.todoapp.model;
 
 import jakarta.persistence.*;
 import lombok.*;
